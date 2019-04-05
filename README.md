@@ -1,4 +1,3 @@
-Lab Assignment 2:
 package compilerarif;
 
 import java.util.Scanner;
